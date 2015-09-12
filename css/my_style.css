@@ -1,0 +1,15 @@
+body {
+	font-family: 'Abel', sans-serif;
+}
+
+#titre {
+	margin:0px auto;
+	width: 50%;
+	display:block;
+	font-family: 'Pacifico', cursive;
+	color: black;
+}
+
+div.jumbotron h2 {
+	text-align: center;
+}
